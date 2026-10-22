@@ -2,3 +2,5 @@ Atividades:
 1 - Visita à praia
 2 - Passeio ao museu
 3 - Apresentação musical
+4 - Passeio de barco
+5 - Jantar especial
