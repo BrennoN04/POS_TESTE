@@ -3,3 +3,6 @@ Atividades:
 2 - Passeio ao museu
 3 - Apresentação musical
 4 - Visita ao centro histórico
+5 - Passeio de barco
+6 - Jantar especial
+
