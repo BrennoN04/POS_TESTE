@@ -2,3 +2,4 @@ Atividades:
 1 - Visita à praia
 2 - Passeio ao museu
 3 - Apresentação musical
+4 - Visita ao centro histórico
